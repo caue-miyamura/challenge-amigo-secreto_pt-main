@@ -1,13 +1,7 @@
 # challenge-amigo-secreto_pt-main
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Sorteador de Amigo Secreto</title>
-</head>
 <body>
-    <h1>🎉 Sorteador de Amigo Secreto</h1>
-    
+     
     <h2>📌 Sobre o Projeto</h2>
     <p>Este projeto foi criado para simplificar e agilizar o sorteio de amigo secreto, permitindo que qualquer grupo de pessoas participe de forma organizada e divertida.</p>
     
